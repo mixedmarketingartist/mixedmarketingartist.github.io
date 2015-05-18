@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
+title: "Contact Derek"
+meta_title: "Contact me today with any questions or requests"
 show_meta: false
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+subheadline: "Talk to me. I don't bite."
+teaser: "Need to get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+I'm happy to chat if you've got questions or requests. Use this form below!
 
 <div class="panel">
 <iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://phlowmedia.wufoo.com/embed/z7x3k1/"></iframe>
