@@ -21,7 +21,7 @@ description: "»The Mixed Marketing Artist is a blog that details how to leverag
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://www.mixedmarketingartist.com"
+url: "http://www.mixedmarketingartist.com"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -156,7 +156,7 @@ og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-
 og_locale:                          "en_EN"
 og_type:                            "website"
 og_title:                           "Mixed Marketing Artist"
-og_description:                     "The Mixed Marketing Artist is a blog that details how to leverage automation/code to make money online."
+og_description:                 "The Mixed Marketing Artist is a blog that details how to leverage automation/code to make money online."
 # og_url:                           ""
 # og_site_name:                     ""
 
@@ -180,7 +180,7 @@ og_description:                     "The Mixed Marketing Artist is a blog that d
 #
 # used in _includes/comments.html
 
-disqus_shortname: feelingresponsive
+disqus_shortname: derekmartinla
 
 
 #      _____                
