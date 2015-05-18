@@ -16,12 +16,7 @@
 - name: GitHub
   url: http://github.com/derekmartinla
   class: icon-github
-  title: Code und mehr...
-
-- name: Reddit
-  url: http://reddit.com/derekmartinla
-  class: icon-reddit
-  title: Code und mehr...
+  title: "Blah blah blah"
 
 - name: Instagram
   url: http://instagram.com/derekmartinla
