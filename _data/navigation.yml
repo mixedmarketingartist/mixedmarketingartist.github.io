@@ -1,27 +1,29 @@
 - title: Start
-  url: "/"
+  url: "/mma"
   side: left
 
-- title: Scripts 
-  url: "/scripts/"
+- title: Code 
+  url: "/code/"
   side: left
   dropdown:
   - title: "Adwords / PPC"
-    url: "/scripts/ppc/"
+    url: "/code/adwords/"
   - title: "SEO"
-    url: "/scripts/seo/"
+    url: "/code/seo/"
   - title: "Social Media"
-    url: "/scripts/socia-media/"
+    url: "/code/social-media/"
+  - title: "Amazon"
+    url: "/code/amazon/"
 
 - title: "Tutorials"
   url: "/tutorials/"
   side: left
   dropdown:
-  - title: "PPC Optimization"
-    url: "/tutorials/optimization/"
+  - title: "Pay-Per-Click"
+    url: "/tutorials/ppc/"
   - title: "Adwords Scripts"
     url: "/tutorials/adwords/"
-  - title: "Ruby"
+  - title: "Ruby Coding"
     url: "/tutorials/ruby/"
 
 - title: Resume
