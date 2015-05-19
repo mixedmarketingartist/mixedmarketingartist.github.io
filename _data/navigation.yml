@@ -5,31 +5,24 @@
 - title: Scripts 
   url: "/scripts/"
   side: left
+  dropdown:
+  - title: "Adwords / PPC"
+    url: "/scripts/ppc/"
+  - title: "SEO"
+    url: "/scripts/seo/"
+  - title: "Social Media"
+    url: "/scripts/socia-media/"
 
 - title: "Tutorials"
   url: "/tutorials/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "PPC Optimization"
+    url: "/tutorials/optimization/"
+  - title: "Adwords Scripts"
+    url: "/tutorials/adwords/"
+  - title: "Ruby"
+    url: "/tutorials/ruby/"
 
 - title: Resume
   url: "/resume/"
